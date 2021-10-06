@@ -1,13 +1,13 @@
 # javaprojects
-small java programs
+individual and academic java projects
 <h2>PatientWare v.0</h2> 
 <p>PatientWare v.0 is the first version of PatientWare, a program that manages patient data for a health maintenance organization. It will model patient demographic data, doctors employed by the organization, and health data about the patients. </p>
 
 <h3>Class HW1Driver</h3>
-<p>The HW1Driver class contains the main program and one helper method. It has the static variable scanner: private static Scanner scanner – the keyboard scanner</p>
+<p>The HW1Driver class contains the main program and one helper method. It has the static variable scanner: private static Scanner scanner – the keyboard scanner.</p>
 
 <h3>Class Patient</h3>
-<p>Patient contains firstName, lastName, unique id, age, and address; in addition, it contains a reference to the patient’s Chart object</p>
+<p>Patient contains firstName, lastName, unique id, age, and address; in addition, it contains a reference to the patient’s Chart object.</p>
 
 <h3>Class PatientList</h3>
 <p>This class contains an ArrayList of Patient objects. Its default constructor new's that ArrayList.</p>
